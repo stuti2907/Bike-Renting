@@ -1,7 +1,10 @@
 # Bike-Renting
 Problem statement -
+
 The objective of this Case is to Predication of bike rental count on daily based on the
 environmental and seasonal settings.
+
+Built suitable model (both R and Python) with a proper report.
 
 The details of data attributes in the dataset are as follows -
 instant: Record index 
